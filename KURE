@@ -1,0 +1,38 @@
+    #wrapper {
+      width: 1024px;
+      height: 768px;
+      background-color: #E1E0E0;
+    }
+    #banner {
+      width: 1024px;
+      height: 220px;
+      background-color: #6E6A6A;
+    }
+    #menuTop {
+      width: 1024px;
+      height: 35px;
+      background-color: #ACAAAA;
+    }
+    #columnLeft {
+      width: 220px;
+      height: 438px;
+      background-color: #CBCACA;
+      float: left;
+    }
+    #columnRight {
+      width: 220px;
+      height: 438px;
+      background-color: #CBCACA;
+      float: right;
+    }
+    #content {
+      width: 584;
+      height: 438;
+      background-color: #E1E0E0;
+      margin-left: 220px;
+    }
+    #footer {
+      width: 1024px;
+      height: 75px;
+      background-color: #6E6A6A;
+    }
